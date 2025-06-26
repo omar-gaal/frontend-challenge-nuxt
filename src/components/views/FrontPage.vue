@@ -1,7 +1,12 @@
 <script setup lang="ts">
+import BaseContainer from '../base/BaseContainer.vue';
+import Hero from '../Hero.vue';
+
 
 </script>
 
 <template>
-    <h1>Fontpage</h1>
-</template>
+    <BaseContainer>
+    <Hero/>
+    </BaseContainer>
+</template>.                                 
